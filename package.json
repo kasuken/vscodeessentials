@@ -1,0 +1,32 @@
+{
+    "name": "code-essentials",
+    "displayName": "Code Essentials",
+    "description": "The essentials extensions for Visual Studio Code",
+    "version": "0.10.0",
+    "publisher": "emanuelebartolesi",
+    "engines": {
+        "vscode": "^1.10.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionDependencies": [
+        "abusaidm.html-snippets",
+        "Zignd.html-css-class-completion",
+        "qinjia.view-in-browser",
+        "msjsdiag.debugger-for-chrome",
+        "dbaeumer.vscode-eslint",
+        "donjayamanne.jquerysnippets",
+        "donjayamanne.githistory",
+        "HookyQR.beautify",
+        "joelday.docthis",
+        "JerryHong.autofilename",
+        "eamodio.gitlens",
+        "robertohuertasm.vscode-icons",
+        "ms-vscode.csharp",
+        "ms-vscode.PowerShell",
+        "zhuangtongfa.Material-theme",
+        "ms-mssql.mssql",
+        "humao.rest-client"
+    ]
+}
