@@ -38,3 +38,7 @@ Includes the most important extensions for a better and more productive Visual S
 - [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
 - [Beautify](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify)
 - [Autofilename](https://marketplace.visualstudio.com/items?itemName=JerryHong.autofilename)
+- [Code Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync)
+- [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
+- [Change Case](https://marketplace.visualstudio.com/items?itemName=wmaurer.change-case)
+- [Spotify](https://marketplace.visualstudio.com/items?itemName=shyykoserhiy.vscode-spotify)
