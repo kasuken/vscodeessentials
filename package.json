@@ -2,7 +2,7 @@
     "name": "code-essentials",
     "displayName": "Code Essentials",
     "description": "The essentials extensions for Visual Studio Code",
-    "version": "4.0.0",
+    "version": "5.0.0",
     "publisher": "emanuelebartolesi",
     "engines": {
         "vscode": "^1.10.0"
@@ -66,6 +66,8 @@
         "wayou.vscode-todo-highlight",
         "wesbos.theme-cobalt2",
         "xabikos.ReactSnippets",
-        "zhuangtongfa.Material-theme"
+        "zhuangtongfa.Material-theme",
+        "mubaidr.vuejs-extension-pack",
+        "liviuschera.noctis"
     ]
 }
