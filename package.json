@@ -2,7 +2,7 @@
     "name": "code-essentials",
     "displayName": "Code Essentials",
     "description": "The essentials extensions for Visual Studio Code",
-    "version": "5.0.0",
+    "version": "6.0.0",
     "publisher": "emanuelebartolesi",
     "engines": {
         "vscode": "^1.10.0"
@@ -68,6 +68,9 @@
         "xabikos.ReactSnippets",
         "zhuangtongfa.Material-theme",
         "mubaidr.vuejs-extension-pack",
-        "liviuschera.noctis"
+        "liviuschera.noctis",
+        "yzhang.markdown-all-in-one",
+        "yzane.markdown-pdf",
+        "hnw.vscode-auto-open-markdown-preview"        
     ]
 }
