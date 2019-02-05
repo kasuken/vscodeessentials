@@ -1,11 +1,28 @@
 {
     "name": "code-essentials",
     "displayName": "Code Essentials",
-    "description": "The essentials extensions for Visual Studio Code",
-    "version": "8.0.0",
+    "description": "The essentials extensions and themes for Visual Studio Code",
+    "version": "9.0.0",
     "publisher": "emanuelebartolesi",
+    "author": {
+        "name": "Emanuele Bartolesi"
+    },
+    "license": "SEE LICENSE IN LICENSE.txt",
+    "bugs": {
+        "url": "https://github.com/kasuken/vscodeessentials/issues",
+        "email": "bartolesiemanuele@hotmail.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/kasuken/vscodeessentials.git"
+    },
     "engines": {
-        "vscode": "^1.10.0"
+        "vscode": "^1.30.0"
+    },
+    "icon": "images/icon.png",
+    "galleryBanner": {
+        "color": "#FFFFFF",
+        "theme": "light"
     },
     "categories": [
         "Extension Packs"
@@ -31,7 +48,6 @@
         "dracula-theme.theme-dracula",
         "eamodio.gitlens",
         "eg2.vscode-npm-script",
-        "emanuelebartolesi.code-essentials",
         "emmanuelbeziat.vscode-great-icons",
         "felixfbecker.php-intellisense",
         "formulahendry.vscode-mysql",
@@ -73,6 +89,6 @@
         "yzane.markdown-pdf",
         "hnw.vscode-auto-open-markdown-preview",
         "eg2.tslint",
-        "ms-vsts.team"    
+        "ms-vsts.team"
     ]
 }
