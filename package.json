@@ -2,7 +2,7 @@
   "name": "code-essentials",
   "displayName": "Code Essentials",
   "description": "The essentials extensions and themes for Visual Studio Code",
-  "version": "9.0.0",
+  "version": "10.0.0",
   "publisher": "emanuelebartolesi",
   "author": {
     "name": "Emanuele Bartolesi"
@@ -72,9 +72,9 @@
     "liviuschera.noctis",
     "mkaufman.HTMLHint",
     "mrmlnc.vscode-autoprefixer",
+    "ms-azuretools.vscode-azureterraform",
     "ms-mssql.mssql",
     "ms-python.python",
-    "ms-azuretools.vscode-azureterraform",
     "ms-vscode.azurecli",
     "ms-vscode.cpptools",
     "ms-vscode.csharp",
