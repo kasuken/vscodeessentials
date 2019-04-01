@@ -74,6 +74,7 @@
     "mrmlnc.vscode-autoprefixer",
     "ms-mssql.mssql",
     "ms-python.python",
+    "ms-azuretools.vscode-azureterraform",
     "ms-vscode.azurecli",
     "ms-vscode.cpptools",
     "ms-vscode.csharp",
